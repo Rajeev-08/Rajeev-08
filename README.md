@@ -21,9 +21,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeev-08&" alt="rajeev-08" /></p>
 
 
-<div> 
- 
-
-  <a href="https://github.com/JosephVTX?tab=repositories"><img src="https://raw.githubusercontent.com/JosephVTX/josephvtx/output/github-contribution-grid-snake-dark.svg"></a>
-
-</div>
