@@ -1,4 +1,4 @@
-<h1 align="center"> やあ 👋, I'm Rajeev ✨</h1>
+<h1 align="center"> やあ 👋, I'm Rajeev 👾</h1>
 
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">
