@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/20779c5a-63e8-4489-b001-6606232b3dac" 
+  <img src="https://media.gifdb.com/doraemon-hooray-bow-n1w6sqrabdvxzry1.gif" 
        alt="GIF" 
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 👾
