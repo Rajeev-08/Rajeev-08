@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/c5a5a032-e399-453f-976c-a971024d1658" 
+  <img src="https://github.com/user-attachments/assets/5872cdd2-1f1e-43d2-a8a3-b37c8f8c27ee" 
        alt="GIF" 
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 👾
