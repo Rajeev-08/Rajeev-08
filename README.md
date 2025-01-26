@@ -10,7 +10,7 @@
 
   <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
        alt="First Image" 
-       style="width: 200px; display: block;" />
+       style="width: 300px; display: block;" />
  
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif">
 
