@@ -7,14 +7,17 @@
 
 
 <h3 align="center">A passionate frontend developer</h3>
-<div style="text-align: right;">
+<div style="position: relative; text-align: right;">
+  <!-- First Image -->
   <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
-       alt="Image 1" 
-       style="display: block; margin-bottom: 10px;" />
+       alt="First Image" 
+       style="width: 200px; display: block;" />
+  <!-- Second Image -->
   <img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" 
-       alt="Coding" 
-       width="400" />
+       alt="Coding GIF" 
+       style="width: 400px; margin-top: 10px;" />
 </div>
+
 
 
 - 🔭 I’m currently working on **Nutri Craft**
