@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/c5a5a032-e399-453f-976c-a971024d1658" 
        alt="GIF" 
-       style="vertical-align: middle; height: 4em;" />
+       style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 👾
 </h1>
 
