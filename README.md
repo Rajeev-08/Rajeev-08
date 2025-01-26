@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.gifdb.com/doraemon-hooray-bow-n1w6sqrabdvxzry1.gif" 
+  <img src="https://tenor.com/view/my-hero-academia-boku-no-hero-academia-anime-mha-bnha-gif-17483940" 
        alt="GIF" 
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 👾
