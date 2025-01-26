@@ -1,5 +1,5 @@
 <h1 align="center"> おおい！... I'm Rajeev 👾 </h1>
-<img align="center" height="100" width="1000"  src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec">
+<img align="center" height="30" width="1200"  src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec">
 
 
 
