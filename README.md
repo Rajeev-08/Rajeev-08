@@ -6,8 +6,6 @@
 </h1>
 
 
-<img align="center"   src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec">
-
 <h3 align="center">A passionate frontend developer</h3>
 <div style="text-align: right;">
   <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
