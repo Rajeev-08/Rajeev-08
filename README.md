@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://tenor.com/view/my-hero-academia-boku-no-hero-academia-anime-mha-bnha-gif-17483940" 
+  <img src="https://github.com/user-attachments/assets/230f7391-8afc-4d68-abb2-f3ef29a2639f" 
        alt="GIF" 
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 👾
