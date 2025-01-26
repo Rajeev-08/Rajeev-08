@@ -1,5 +1,5 @@
-<h1 align="center"> おおい！... I'm Rajeev 👾</h1>
-<img align="right" alt="Coding"  src="https://github.com/user-attachments/assets/4911ef50-f1a8-46c3-be25-b4f7c200e6c7">
+<h1 align="center"> おおい！... I'm Rajeev 👾
+<img align="right" alt="Coding"  src="https://github.com/user-attachments/assets/4911ef50-f1a8-46c3-be25-b4f7c200e6c7"> </h1>
 
 
 
