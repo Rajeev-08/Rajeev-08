@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Nutri Craft**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML**
 
 
 ## 🌐 Socials:
