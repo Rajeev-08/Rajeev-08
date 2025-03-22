@@ -8,7 +8,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-  <img align="right" src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
+  <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
        alt="First Image" 
        style="width: 300px; display: block;" />
  
