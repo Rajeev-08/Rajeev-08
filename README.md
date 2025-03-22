@@ -4,7 +4,7 @@
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 
 </h1>
-
+<h3 align="center">Frontend Developer</h3>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
        alt="First Image" 
@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">Frontend Developer</h3>
+
 
 
   <img align="right" alt="Coding" width="400" 
