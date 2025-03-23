@@ -4,12 +4,11 @@
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 
 </h1>
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <h3 style="margin: 0;">Frontend Developer</h3>
-  <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
-       alt="First Image" 
-       style="width: 210px; margin-top: 10px;" />
-</div>
+<h3 style="text-align: center; margin-bottom: 10px !important;">Frontend Developer</h3>
+<img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
+     alt="First Image" 
+     style="display: block; margin: 0 auto;" />
+
 
 
 
