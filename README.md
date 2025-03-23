@@ -4,12 +4,11 @@
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 
 </h1>
-<h3 align="center">Frontend Developer</h3>
-<br>
-<div align="center">
+<div style="text-align: center;">
+  <h3>Frontend Developer</h3>
   <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
        alt="First Image" 
-       style="width: 210px;" />
+       style="width: 210px; margin-top: 10px;" />
 </div>
 
 
