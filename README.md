@@ -4,8 +4,8 @@
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 
 </h1>
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rajeev-08&theme=react-dark)
 
-![Animated Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86!+I'm+Rajeev;Frontend+Developer;Open-source+Enthusiast+%F0%9F%9A%80)
 
 <h3 align="center">Frontend Developer</h3>
 <div align="center">
