@@ -5,10 +5,6 @@
   おおい！... I'm Rajeev 
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="600">
-</p>
-
 
 
 <h3 align="center">Frontend Developer</h3>
