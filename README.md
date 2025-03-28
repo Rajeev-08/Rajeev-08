@@ -4,7 +4,11 @@
        style="vertical-align: middle; height: 2em;" />
   おおい！... I'm Rajeev 
 </h1>
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rajeev-08&theme=react-dark)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="600">
+</p>
+
 
 
 <h3 align="center">Frontend Developer</h3>
