@@ -42,9 +42,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-08&theme=dark&hide_border=true)<br/>
 
 
-### 🟡 Pac-Man Style Contribution Graph
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Rajeev-08/Rajeev-08/output/pacman-contribution-graph.svg)
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Rajeev-08/Rajeev-08/main/output/pacman-contribution-graph.svg)
+
 
 
 
