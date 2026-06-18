@@ -1,34 +1,16 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/5872cdd2-1f1e-43d2-a8a3-b37c8f8c27ee" 
-       alt="GIF" 
-       style="vertical-align: middle; height: 2em;" />
-  おおい！... I'm Rajeev 
+  <img src="https://github.com/user-attachments/assets/5872cdd2-1f1e-43d2-a8a3-b37c8f8c27ee" width="60">
+  おおい！... I'm Rajeev
 </h1>
 
+<h3 align="center">
+Software Developer | AI, Web & Data
+</h3>
 
-
-<h3 align="center"> Software Developer | AI, Web & Data</h3>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec" 
-       alt="First Image" 
-       style="width: 220px;  display: block;" />
+  <img src="https://github.com/user-attachments/assets/7aa827c8-bb29-4cf7-8136-a396132a11ec"
+       width="220">
 </div>
-
-
-
-
-
-
-
-
-
-
-  
-</div>
-
-
-
-
 
 
 
@@ -38,7 +20,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://rajeev-r.vercel.app/)
 
 
+
 ##  Tech Stack
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
 
 ### Languages
 
@@ -66,11 +54,11 @@
 
 ### AI / Data
 
-<p align="left">
-  <img  src="https://skillicons.dev/icons?i=pytorch" style="margin-right:12px;"  />
-  <img style="margin-right:12px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" style="margin-right:12px;"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" style="margin-right:12px;" />
+<img style="margin-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
+<img style="margin-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
 </p>
 
 ### Tools
@@ -79,9 +67,56 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
+</td>
+
+<td width="45%" valign="top">
+
+<img
+src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif"
+width="100%">
+
+
+
+### 👨‍💻 About Me
+
+```python
+class Rajeev:
+
+    role = "Software Developer"
+
+    focus = [
+        "Artificial Intelligence",
+        "Backend Development",
+        "Full Stack Applications",
+        "Developer Tools"
+    ]
+
+    currently_building = [
+        "CrimeLens",
+        "SyncStudio"
+    ]
+
+    currently_learning = [
+        "Docker",
+        "Redis",
+        "PostgreSQL",
+        "System Design"
+    ]
+
+    motto = "Build. Break. Learn. Repeat."
+```
+
+</td>
+
+</tr>
+</table>
+
+
+
 
 #  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-08&theme=dark&hide_border=true)<br/>
+
 
 ---
 
@@ -89,12 +124,6 @@
 
 ### 「継続は力なり」
 
-
+*Consistency becomes strength.*
 
 </div>
-
-
-
-
-
-
