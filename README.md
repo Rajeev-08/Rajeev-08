@@ -83,6 +83,16 @@
 #  GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-08&theme=dark&hide_border=true)<br/>
 
+---
+
+<div align="center">
+
+### 「継続は力なり」
+
+
+
+</div>
+
 
 
 
