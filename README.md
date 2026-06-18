@@ -77,7 +77,7 @@ width="100%">
 
 
 
-### 👨‍💻 About Me
+###  About Me
 
 ```python
 class Rajeev:
